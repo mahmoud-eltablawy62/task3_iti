@@ -1,0 +1,15 @@
+D:\tasks\task3_iti\employeestask\employeestask\bin\Debug\net6.0\employeestask.exe
+D:\tasks\task3_iti\employeestask\employeestask\bin\Debug\net6.0\employeestask.deps.json
+D:\tasks\task3_iti\employeestask\employeestask\bin\Debug\net6.0\employeestask.runtimeconfig.json
+D:\tasks\task3_iti\employeestask\employeestask\bin\Debug\net6.0\employeestask.dll
+D:\tasks\task3_iti\employeestask\employeestask\bin\Debug\net6.0\employeestask.pdb
+D:\tasks\task3_iti\employeestask\employeestask\obj\Debug\net6.0\employeestask.csproj.AssemblyReference.cache
+D:\tasks\task3_iti\employeestask\employeestask\obj\Debug\net6.0\employeestask.GeneratedMSBuildEditorConfig.editorconfig
+D:\tasks\task3_iti\employeestask\employeestask\obj\Debug\net6.0\employeestask.AssemblyInfoInputs.cache
+D:\tasks\task3_iti\employeestask\employeestask\obj\Debug\net6.0\employeestask.AssemblyInfo.cs
+D:\tasks\task3_iti\employeestask\employeestask\obj\Debug\net6.0\employeestask.csproj.CoreCompileInputs.cache
+D:\tasks\task3_iti\employeestask\employeestask\obj\Debug\net6.0\employeestask.dll
+D:\tasks\task3_iti\employeestask\employeestask\obj\Debug\net6.0\refint\employeestask.dll
+D:\tasks\task3_iti\employeestask\employeestask\obj\Debug\net6.0\employeestask.pdb
+D:\tasks\task3_iti\employeestask\employeestask\obj\Debug\net6.0\employeestask.genruntimeconfig.cache
+D:\tasks\task3_iti\employeestask\employeestask\obj\Debug\net6.0\ref\employeestask.dll

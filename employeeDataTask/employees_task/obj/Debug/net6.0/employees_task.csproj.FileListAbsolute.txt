@@ -1,0 +1,15 @@
+D:\tasks\task3_iti\employees_task\employees_task\bin\Debug\net6.0\employees_task.exe
+D:\tasks\task3_iti\employees_task\employees_task\bin\Debug\net6.0\employees_task.deps.json
+D:\tasks\task3_iti\employees_task\employees_task\bin\Debug\net6.0\employees_task.runtimeconfig.json
+D:\tasks\task3_iti\employees_task\employees_task\bin\Debug\net6.0\employees_task.dll
+D:\tasks\task3_iti\employees_task\employees_task\bin\Debug\net6.0\employees_task.pdb
+D:\tasks\task3_iti\employees_task\employees_task\obj\Debug\net6.0\employees_task.csproj.AssemblyReference.cache
+D:\tasks\task3_iti\employees_task\employees_task\obj\Debug\net6.0\employees_task.GeneratedMSBuildEditorConfig.editorconfig
+D:\tasks\task3_iti\employees_task\employees_task\obj\Debug\net6.0\employees_task.AssemblyInfoInputs.cache
+D:\tasks\task3_iti\employees_task\employees_task\obj\Debug\net6.0\employees_task.AssemblyInfo.cs
+D:\tasks\task3_iti\employees_task\employees_task\obj\Debug\net6.0\employees_task.csproj.CoreCompileInputs.cache
+D:\tasks\task3_iti\employees_task\employees_task\obj\Debug\net6.0\employees_task.dll
+D:\tasks\task3_iti\employees_task\employees_task\obj\Debug\net6.0\refint\employees_task.dll
+D:\tasks\task3_iti\employees_task\employees_task\obj\Debug\net6.0\employees_task.pdb
+D:\tasks\task3_iti\employees_task\employees_task\obj\Debug\net6.0\employees_task.genruntimeconfig.cache
+D:\tasks\task3_iti\employees_task\employees_task\obj\Debug\net6.0\ref\employees_task.dll
